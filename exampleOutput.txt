@@ -1,0 +1,28 @@
+Enter information for first user:
+Enter your first name:
+John
+Enter your last name:
+Doe
+Enter your email address:
+johndoe@example.com
+Enter your favorite color:
+blue
+Enter your favorite animal:
+dog
+Enter information for second user:
+Enter your first name:
+Jane
+Enter your last name:
+Doe
+Enter your email address:
+janedoe@example.com
+Enter your favorite color:
+green
+Enter your favorite animal:
+cat
+
+Results:
+User 1:
+  Password: JohBluDogDoejoh
+  Encrypted password: Iawh/NFXn80K8GVvq3UIrQ==
+  Decrypted password: JohBluDogDoejoh
